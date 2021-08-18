@@ -60,10 +60,7 @@ Traffic TF [3];
 void initTF(){
   //load password from EEPROM
   //writing for first time only..
-  /*EEPROM.write(0, 1);
-  EEPROM.write(1, 2);
-  EEPROM.write(2, 3);
-  EEPROM.write(3, 4);*/
+ 
   //loading
   for(int i=0;i<4;++i){
     keyPass[i]= EEPROM.read(i);
