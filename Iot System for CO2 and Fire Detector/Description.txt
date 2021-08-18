@@ -1,0 +1,30 @@
+IOT Early Disaster Detection, Avoidance and Rescue system
+
+Fires are one of the most widespread causes of deaths by accident. Instant alerting to the fire department is necessary to ensure immediate action. Every minute can save many lives in such situations, nowadays it’s a need, it affects the whole world, so we are looking for a passionate member to join our team to be a part of a huge implementation and idea which can change the world to a better place.
+
+What are expected to be gained?
+
+You will be able to use Esps and wifi modules.
+You will be able to program an IOT platform.
+you will gain experience in dealing with different sensors.
+You will be able to deal with different communication protocols.
+And more are coming….
+
+Hardware requirements
+
+Arduino Uno
+Wifi Module
+ Temperature Humidity Sensor
+ Ultrasonic Sensor
+ PIR sensor
+ LCD Display
+ Resistors
+ Capacitors
+ Transistors
+ Cables and Connectors
+  Diodes
+  PCB and Breadboards
+  LED
+ Transformer/Adapter
+  Push Buttons / switch
+  IC/ic socket

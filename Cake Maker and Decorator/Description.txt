@@ -1,0 +1,3 @@
+Simple simulation for a cake factory:
+
+First stage is cake making then decoration.
